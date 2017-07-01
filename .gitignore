@@ -1,0 +1,11 @@
+Temp/
+Library/
+Builds/
+ProjectSettings/
+*.sln
+*.vs
+*.csproj
+*.sln
+*.DS_Store
+*/*.DS_Store
+*.userprefs
