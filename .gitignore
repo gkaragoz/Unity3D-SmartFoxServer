@@ -9,3 +9,6 @@ ProjectSettings/
 *.DS_Store
 */*.DS_Store
 *.userprefs
+/SFS Server/nbproject/private/
+/SFS Server/build/
+/SFS Server/dist/
